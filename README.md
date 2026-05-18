@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sauban Alam 👋
 
-<!--
-**saubanalam24/saubanalam24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Third-Year B.Tech Student at IIT Jodhpur  
+💻 Interested in Software Development, AI/ML, and Data Structures  
+🚀 Currently building projects in C++, Python, and Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+- C++
+- Python
+- JavaScript
+- Machine Learning
+- Data Structures & Algorithms
+- Git & GitHub
+- HTML/CSS
+- Node.js
+
+---
+
+## 📌 Projects
+🔹 Network Packet Routing Simulator  
+🔹 DSA Toolkit & Algorithm Visualizer  
+🔹 Cognitive Performance Analysis Platform  
+
+---
+
+## 📈 Current Goals
+- Building real-world software projects
+- Improving problem-solving skills
+- Learning full-stack development
+- Exploring AI/ML applications
+
+---
+
+## 🌐 Connect With Me
+- LinkedIn: https://linkedin.com/in/sauban-alama332ab329
+- Email: saubanalam121@gmail.com
