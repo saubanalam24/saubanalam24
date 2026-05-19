@@ -19,9 +19,15 @@
 ---
 
 ## 📌 Projects
+
+🔹 AI Resume Analyzer  
+Built an AI-powered Resume Analyzer using Flask, Python, NLP, PDF processing, and data visualization. Features include resume-job description matching, skill gap analysis, PDF report generation, and chart visualization.
+
 🔹 Network Packet Routing Simulator  
+
 🔹 DSA Toolkit & Algorithm Visualizer  
-🔹 Cognitive Performance Analysis Platform  
+
+🔹 Cognitive Performance Analysis Platform   
 
 ---
 
