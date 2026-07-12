@@ -1,6 +1,6 @@
 # Hi, I'm Sauban Alam 👋
 
-🎓 Third-Year B.Tech Student at IIT Jodhpur  
+🎓 Third-Year BS Student at IIT Jodhpur  
 💻 Interested in Software Development, AI/ML, and Data Structures  
 🚀 Currently building projects in C++, Python, and Web Development  
 
